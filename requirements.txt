@@ -1,0 +1,5 @@
+flask
+vk_api
+openai
+pymongo
+python-dotenv
